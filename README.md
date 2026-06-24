@@ -180,14 +180,6 @@ SPA for searching, organizing, and reading books with an integrated in-browser E
 
 ---
 
-## Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=prabashvijayanga&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4"/>
-</div>
-
----
-
 ## Certifications
 
 > 100+ verified certificates across web development, AI, security & data science &nbsp;·&nbsp; [View on LinkedIn →](https://linkedin.com/in/prabashvijayanga)
