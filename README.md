@@ -174,8 +174,6 @@ SPA for searching, organizing, and reading books with an integrated in-browser E
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prabashvijayanga&bg_color=0d1117&color=1f6feb&line=1f6feb&point=ffffff&area=true&area_color=1f3a6e&hide_border=true"/>
-
 </div>
 
 ---
