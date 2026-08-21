@@ -123,15 +123,3 @@ const prabash = {
 
 ---
 
-<div align="center">
-
-**Let's connect and build something great**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabashvijayanga)
-[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabashvijayanga@gmail.com)
-
-📍 Horana, Sri Lanka &nbsp;·&nbsp;
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
-
-</div>
