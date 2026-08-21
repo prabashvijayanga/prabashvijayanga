@@ -64,7 +64,19 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
+## Certifications
 
+> 100+ verified certificates across web development, AI, security & data science &nbsp;·&nbsp; [View on LinkedIn →](https://linkedin.com/in/prabashvijayanga)
+
+| Certificate | Issuer |
+|---|---|
+| Career Essentials in Software Development | Microsoft & LinkedIn |
+| Microsoft Security Essentials | Microsoft & LinkedIn |
+| Career Essentials in Generative AI | Microsoft & LinkedIn |
+| ML Statistical Foundations | Wolfram Research |
+| Career Essentials in Business & Data Analysis | Microsoft & LinkedIn |
+| Front-End Web Development | University of Moratuwa |
+| Career Essentials in Cybersecurity | Microsoft & LinkedIn |
 
 
 ---
@@ -91,19 +103,5 @@
 
 ---
 
-## Certifications
 
-> 100+ verified certificates across web development, AI, security & data science &nbsp;·&nbsp; [View on LinkedIn →](https://linkedin.com/in/prabashvijayanga)
-
-| Certificate | Issuer |
-|---|---|
-| Career Essentials in Software Development | Microsoft & LinkedIn |
-| Microsoft Security Essentials | Microsoft & LinkedIn |
-| Career Essentials in Generative AI | Microsoft & LinkedIn |
-| ML Statistical Foundations | Wolfram Research |
-| Career Essentials in Business & Data Analysis | Microsoft & LinkedIn |
-| Front-End Web Development | University of Moratuwa |
-| Career Essentials in Cybersecurity | Microsoft & LinkedIn |
-
----
 
