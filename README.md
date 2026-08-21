@@ -26,22 +26,6 @@
 <br/>
 
 ---
-
-## About
-
-```typescript
-const prabash = {
-  role       : "Frontend & Full-Stack Developer",
-  education  : "BSE Software Engineering (Hons) — OUSL, 3rd Year",
-  location   : "Horana, Sri Lanka",
-  stack      : ["React.js", "Next.js", "TypeScript", "Java Spring Boot", "MySQL"],
-  certs      : "100+ verified certificates — Microsoft · LinkedIn · Wolfram",
-  goal       : "Software Engineering Internship 2026",
-};
-```
-
----
-
 ## Tech Stack
 
 **Frontend**
