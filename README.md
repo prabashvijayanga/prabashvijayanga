@@ -87,11 +87,6 @@
   <img src="https://github.com/prabashvijayanga/galaxy-profile/blob/main/assets/generated/galaxy-header.svg?raw=true" width="850"/>
 </div>
 
-<div align="center">
-  <img src="https://github.com/prabashvijayanga/galaxy-profile/blob/main/assets/generated/tech-stack.svg?raw=true" width="850"/>
-  <br/>
-  <img src="https://github.com/prabashvijayanga/galaxy-profile/blob/main/assets/generated/projects-constellation.svg?raw=true" width="850"/>
-</div>
 <br/>
 
 <div align="center">
